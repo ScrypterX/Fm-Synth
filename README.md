@@ -1,2 +1,2 @@
-# Fm-Synth
+# Fm Synth
 An Fm Synthesis in Supercollider
